@@ -17,11 +17,7 @@ Example of options after running the C program:
 -press 1
 -press 3
 
-All data sets created with the randoom generator are stored in file.txt located in the same folder and are ready to be used for the python implementation.
-
-For implementing the python programs I used Visual Studio Code(with the python extension included!)
-The main.py file executes both of the algorithms which are implemented in other two .py files(algorithm1.py,algorithm2.py-their functions are also imported in main.py)
-!For the main.py to execute correctly We first need to run the code in the Codeblocks project so that the same  sets of data are being used.
+All data sets created with the random generator are stored in file.txt located in the same folder and are ready to be used for the python implementation.
 
 
 The Values that were used for the running time tests(for the technical report) are located in the folder Values used for testing.
