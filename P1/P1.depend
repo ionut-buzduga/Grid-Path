@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1590151300 source:d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\algorithm1.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1590155139 d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\utils.h
+
+1590168493 source:d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\algorithm2.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
+1590153806 source:d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\generator.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	<time.h>
+
+1590168279 source:d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	<time.h>
+
+1590153936 source:d:\ad-cen1.1b-buzduga-ionut-gabriel-course-assignment\p1\utils.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+
